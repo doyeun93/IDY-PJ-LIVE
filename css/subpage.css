@@ -163,5 +163,5 @@
 
   .main-item-list li:hover img{
     transform: rotateX(20deg);
-    transition: .2s ease-in-out;
+    transition: .3s ease-in;
   }
