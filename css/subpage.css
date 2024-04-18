@@ -166,3 +166,8 @@
     transform: rotateX(20deg);
     transition: .3s ease-in;
   }
+
+  /*********************************** 서브페이지1 링크페이지 ***********************************/
+  .menu-view-box{
+    padding-top: 60px;
+  }
