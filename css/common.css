@@ -161,13 +161,13 @@ body{
   background: url(../images/main_img1.jpg) no-repeat center/100% 95%;
 }
 .snum-02 {
-  background: url(../images/main_img2.jpg) no-repeat center/auto 100%;
+  background: url(../images/main_img2.jpg) no-repeat center/ 100% 95%;
 }
 .snum-03 {
   background: url(../images/main_img3.jpg) no-repeat center/100% 95%;
 }
 .snum-04 {
-  background: url(../images/main_img4.jpg) no-repeat center/auto 100%;
+  background: url(../images/main_img4.jpg) no-repeat center/100% 95%;
 }
 
 /***************** 3. 프로모션 영역 *****************/
