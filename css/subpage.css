@@ -174,4 +174,11 @@
   }
   .view-box{
     display: flex;
+    align-items: flex-end;
+  }
+
+  .view-box-header{
+    width: 400px;
+    padding-right: 50px;
+    box-sizing: border-box;
   }
