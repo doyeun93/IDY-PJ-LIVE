@@ -174,7 +174,8 @@
   }
   .view-box{
     display: flex;
-    align-items: flex-end;
+    align-items: center;
+    justify-content: center;
   }
 
   .view-box-header{
@@ -205,8 +206,18 @@
   .view-box-ingredients > ul{
     display: flex;
     gap: 90px;
+    padding-top: 10px;
   }
   .ingredients-list{
     display: flex;
-    text-align: center;
+    justify-content: center;
+  }
+  .menu-view-top{
+    width: 985px;
+    margin: 72px auto 0;
+    padding-top: 52px;
+    border-top: 1px solid #c6c1bf;
+  }
+  .menu-view-top-box{
+    display: flex;
   }
