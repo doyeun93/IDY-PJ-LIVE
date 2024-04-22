@@ -339,6 +339,31 @@
 
   }
 
+  /************************ 서브_링크  ************************/
+  .view-box {
+    display: inline;
+  }
+  .view-box-content >img{
+    width: 78%;
+    margin-left: 10%;
+  }
+  .view-box-content{
+    background: url(../images/cone.png) no-repeat center bottom -9px / 75px  auto;
+  }
+  .view-box-header {
+    padding-top: 30px;
+  }
+
+  .view-box-header p, h2{
+    text-align: center;
+  }
+
+  
+.view-box-ingredients > ul {
+ justify-content: space-evenly;
+}
+
+
 
 }
 /********************  최대 450px 미디어쿼리 종료 ********************/
