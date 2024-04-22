@@ -261,9 +261,10 @@
     display: flex;
     align-items: flex-start;
     width: 985px;
-    margin: 50px auto 0;
+    height: 760px;
+    margin: 40px auto 0;
   }
-
+  
   .menu-view-bottom h3{
     display: flex;
     align-items: flex-end;
@@ -271,8 +272,19 @@
     height: 36px;
     font-size: 1.8rem;
   }
-
   .menu-view-list{
     display: flex;
     align-items: start;
+  }
+  .menu-view-list >h4{
+    display: flex;
+    align-items: flex-end;
+    width: 136px;
+    height: 36px;
+    font-size: 1.2rem;
+  }
+  .menu-view-list-title{
+    font-weight: bold;
+    font-size: 1rem;
+    color: #ff5484;
   }
