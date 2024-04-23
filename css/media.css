@@ -358,9 +358,15 @@
     text-align: center;
   }
 
-  
 .view-box-ingredients > ul {
  justify-content: space-evenly;
+}
+
+.menu-view-top-box {
+  display: inline;
+}
+.menu-view-top-title {
+  padding-bottom: 20px;
 }
 
 

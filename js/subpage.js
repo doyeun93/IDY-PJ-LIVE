@@ -13,7 +13,7 @@ console.log(iceList);
 iceList.innerHTML = 
 icMenuData.map(v=>`
     <li>
-        <a href="#">
+        <a href="../sub_main.html">
             <img src="./images/sub/${v.imgName}.png" alt="${v.title}">
             <aside class="main-item-info">${v.title}</aside>
         </a>
